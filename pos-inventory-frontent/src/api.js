@@ -1,7 +1,9 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || "http://localhost:5000",
+  baseURL:
+    import.meta.env.VITE_API_URL ||
+    "https://pos-inventory-system-1.onrender.com",
 });
 
 API.interceptors.request.use(config => {
