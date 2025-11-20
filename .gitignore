@@ -1,11 +1,11 @@
 
 # Node modules
-pos-inventory-frontend/node_modules/
+pos-inventory-frontent/node_modules/
 Backend/node_modules/
 
 # Env files
-pos-inventory-frontend/.env
+pos-inventory-frontent/.env
 Backend/.env
 
 # React build folder
-pos-inventory-frontend/dist/
+pos-inventory-frontent/dist/
