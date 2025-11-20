@@ -1,0 +1,11 @@
+
+# Node modules
+pos-inventory-frontend/node_modules/
+Backend/node_modules/
+
+# Env files
+pos-inventory-frontend/.env
+Backend/.env
+
+# React build folder
+pos-inventory-frontend/dist/
